@@ -59,4 +59,4 @@ if __name__ == "__main__":
     app.run(debug = False, threaded = False)
 
 if __name__ == "app":
-    load_model()
+    #load_model()
