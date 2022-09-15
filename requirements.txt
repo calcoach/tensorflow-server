@@ -2,7 +2,7 @@ gunicorn==19.9.0
 
 Keras==2.2.4
 
-tensorflow
+tensorflow==2.1.10
 
 numpy==1.15.4
 
